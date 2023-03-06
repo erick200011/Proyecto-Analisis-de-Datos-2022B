@@ -1,4 +1,9 @@
 # Proyecto-Analisis-de-Datos-2022B
+
+Video de explicación del proyecto:
+https://youtu.be/LZ7SGuK4E6E
+
+
 1. Introducción
 El análisis de datos ha desempeñado un papel crucial 
 en la respuesta global a la pandemia de COVID-19, 
